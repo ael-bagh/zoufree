@@ -2,7 +2,7 @@
 ![Logo](https://raw.githubusercontent.com/ael-bagh/zoufree/main/Sans%20titre%20(1).png)
 
     
-# Zoofree
+# Zoufree
 
 Living with room-mates has never been so easy.
 
